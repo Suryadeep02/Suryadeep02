@@ -33,7 +33,7 @@ I have also worked on patient-scheduling APIs, request validation, JWT authentic
 
 **Data rail:** my selected project contributions include Flink windowed aggregates and interval joins, watermark-aware late arrivals, RocksDB state, incremental S3 checkpoints, and a parity harness for comparing batch and streaming outputs before cutover.
 
-**Core tools:** Python, TypeScript, Node.js, NestJS, MongoDB, Redis, BullMQ, Kafka, Avro and SQL. Django, Flask, FastAPI, Express.js and PostgreSQL are also in my backend toolkit.
+**Core tools:** Go (Golang), Python, TypeScript, Node.js, NestJS, MongoDB, Redis, BullMQ, Kafka, Avro and SQL. Django, Flask, FastAPI, Express.js and PostgreSQL are also in my backend toolkit.
 
 **Inspect:** [stream-processing case study](https://suryadeepsinh-gohil.vercel.app/projects/stream-processing-flink) and [Stormcheck's analysis code](https://github.com/Suryadeep02/Stormcheck/blob/main/src/stormcheck/analysis.py). The first is a team-project write-up; the second is a small public tool.
 
@@ -125,7 +125,7 @@ The examples above show where particular tools were used. This broader inventory
 
 **Languages and application development**
 
-- Python, JavaScript, TypeScript: services, interfaces, tooling and AI workflows.
+- Go (Golang), Python, JavaScript, TypeScript: services, interfaces, tooling and AI workflows.
 - Node.js, NestJS, Express.js, Django, Flask, FastAPI: backend application frameworks.
 - React, Vue.js, Vuex, module federation: interfaces, state and frontend composition.
 - HTML, CSS, Tailwind CSS, Bootstrap: layout, styling and reusable interface work.
