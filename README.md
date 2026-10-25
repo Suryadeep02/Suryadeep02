@@ -75,6 +75,10 @@ My separate contract engagements cover terminal-task creation and model-attempt 
 
 **Pick an artifact by the kind of evidence you want.**
 
+### ProgramBench DOT layout | Public evaluation demo
+
+An independently authored application demo for evaluating source reconstruction of a graph-layout command. My work includes task design, fixture generation, a semantic and geometry-aware comparator, isolated grading and analysis of recorded model attempts. [Inspect the source, tests and validation notes](https://github.com/Suryadeep02/programbench-dot-layout-demo). This demonstrates task and evaluation engineering, not a full LLM training pipeline.
+
 ### Stormcheck | Public Python utility
 
 **Problem:** inspect retry and timeout configuration in a declared service topology. **My artifact:** a CLI, local web UI, examples and tests. **Stack:** Python and YAML. **Inspect:** [source](https://github.com/Suryadeep02/Stormcheck), [tests](https://github.com/Suryadeep02/Stormcheck/tree/main/tests), [CI](https://github.com/Suryadeep02/Stormcheck/actions). **Boundary:** a static model, not a runtime traffic simulator. Input validation and modeling limits still need improvement.
@@ -90,6 +94,10 @@ My separate contract engagements cover terminal-task creation and model-attempt 
 ### Unreal Engine simulation | In development
 
 Developing an Unreal Engine mining simulation with a planned interface for training and evaluating autonomous heavy vehicles. The environment is work in progress. The training interface is planned, and an autonomous training loop is not demonstrated. Project assets and implementation remain private.
+
+### Incremental SQL engine | Design phase
+
+In design: a single-node incremental SQL engine with planned crash recovery and an interactive execution console.
 
 ### Side quest: the job timed out. What now?
 
